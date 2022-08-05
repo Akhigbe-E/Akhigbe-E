@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Akhigbe-E's github stats](https://github-readme-stats.vercel.app/api?username=Akhigbe-E)](https://github.com/Akhigbe-E/github-readme-stats)
+
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
 
