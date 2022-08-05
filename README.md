@@ -1,13 +1,13 @@
-## ⚡️ Hi, welcome
+## ⚡️ Hi,I'm Emmanuel
 #### 🎨 Frontend Engineer | Making life easier through tech
 I am accustomed to working with remote teams and keen on architecting scalable and critically thought-out solutions while focused on customer satisfaction.
 
-
-- 🌱 I’m currently learning <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
+## 🔎 Lirru Info
+- 🌱 I’m currently exploring Go
 - 👯 I’m looking to collaborate on making learning resources more accessible
 - ⚡ Fun fact: You can't beat me in a competition
 
-**Toolbox:**  
+## Toolbox 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -35,9 +35,6 @@ I am accustomed to working with remote teams and keen on architecting scalable a
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-
-[![Akhigbe-E's github stats](https://github-readme-stats.vercel.app/api?username=Akhigbe-E)](https://github.com/Akhigbe-E/github-readme-stats)
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
