@@ -1,4 +1,5 @@
-### Hi there 👋
+### ⚡️ Theoscoder
+## Theós - God || Coder - Coder
 
 <!--
 **Akhigbe-E/Akhigbe-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
