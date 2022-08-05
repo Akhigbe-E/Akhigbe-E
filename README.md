@@ -1,10 +1,8 @@
 ### ⚡️ Theoscoder
-## Theós - God || Coder - Coder
+#### Frontend Engineer | Making life easier through tech ⚡️
 
-<!--
-**Akhigbe-E/Akhigbe-E** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+** Facts
+I am accustomed to working with remote teams and keen on architecting scalable and critically thought-out solutions while focused on customer satisfaction.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![Akhigbe-E's github stats](https://github-readme-stats.vercel.app/api?username=Akhigbe-E)](https://github.com/Akhigbe-E/github-readme-stats)
 
@@ -23,7 +21,7 @@ Here are some ideas to get you started:
 
 ```text
 💬 Programming Languages: 
-React.js                   7 hrs 10 mins       ██████████████████░░░░░░░   72.9% 
+React.js                   7 hrs 10 mins     ██████████████████░░░░░░░   72.9% 
 TypeScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
 JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
 JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
