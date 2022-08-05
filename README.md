@@ -1,13 +1,16 @@
-## ⚡️ Hi,I'm Emmanuel
-#### 🎨 Frontend Engineer | Making life easier through tech
+## 👋🏾 Hi, I'm Emmanuel
+#### ⚡️ Frontend Engineer | Making life easier through tech
 I am accustomed to working with remote teams and keen on architecting scalable and critically thought-out solutions while focused on customer satisfaction.
 
-## 🔎 Lirru Info
+
+#### 🤌🏾 Lirru Info
 - 🌱 I’m currently exploring Go
-- 👯 I’m looking to collaborate on making learning resources more accessible
+- 🛠 If it runs on Javascript, I can build something with it
+- 👯 I’m looking to collaborate on making learning resources on tech more accessible
 - ⚡ Fun fact: You can't beat me in a competition
 
-## Toolbox 
+
+#### Toolbox 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -35,17 +38,3 @@ I am accustomed to working with remote teams and keen on architecting scalable a
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-React.js                   7 hrs 10 mins     ██████████████████░░░░░░░   72.9% 
-TypeScript               1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64% 
-JSON                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.91% 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.97% 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.77%
-
-```
-<!--END_SECTION:waka-->
